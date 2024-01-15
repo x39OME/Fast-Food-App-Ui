@@ -9,8 +9,8 @@
 
 ## Steps
 - npx create-expo-app Travel-App-Ui
-- npm i twrnc
-- npm i nativewind
+- npm i twrnc *
+- npm i nativewind *
 - npm i --dev tailwindcss@3.3.2
 - npx tailwindcss init
 - npm install @react-navigation/native
