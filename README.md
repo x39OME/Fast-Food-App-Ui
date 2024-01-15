@@ -20,6 +20,7 @@
 - npm i expo-linear-gradient
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
+- npm i react-native-animatable
 ```
 // tailwind.config.js
 module.exports = {
