@@ -1,4 +1,4 @@
-# Fast-Food-App-Ui
+# Fast Food App Ui
 
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
