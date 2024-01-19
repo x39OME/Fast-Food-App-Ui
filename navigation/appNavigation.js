@@ -3,8 +3,13 @@ import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import HomeScreen from '../screens/HomeScreen';
 import FoodDetailsScreen from '../screens/FoodDetailsScreen';
+import { LogBox } from 'react-native';
 
 const Stack = createNativeStackNavigator();
+
+LogBox.ignoreLogs([
+  'Non-serializable values were found in the navigation state',
+]);
 
 export default function AppNavigation() {
   return (
