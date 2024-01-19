@@ -1,5 +1,16 @@
 # Fast Food App Ui
 
+## Preview Final Project
+
+#### Home Screen
+
+<img src="homescreen.jpg" style="width:350px;" alt=" Home" />
+
+#### Food Details Screen
+
+<img src="detailsscreen.jpg" style="width:350px;" alt="Details" />
+
+
 ## What did we use in the project?
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
@@ -52,15 +63,3 @@ module.exports = function (api) {
 - npm i
 - npx expo
 - -w or Open Expo App On your Phone
-
-
-## Preview Final Project
-
-#### Home Screen
-
-<img src="homescreen.jpg" style="width:350px;" alt=" Home" />
-
-#### Food Details Screen
-
-<img src="detailsscreen.jpg" style="width:350px;" alt="Details" />
-
