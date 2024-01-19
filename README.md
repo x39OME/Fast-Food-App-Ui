@@ -8,7 +8,7 @@
 ### 5- [react-native-animatable](https://www.npmjs.com/package/react-native-animatable)
 
 ## Steps
-- npx create-expo-app Travel-App-Ui
+- npx create-expo-app Fast-Food-App-Ui
 - npm i twrnc * `First Method => Tailwind`
 - npm i nativewind * `Second Method => Tailwind`
 - npm i --dev tailwindcss@3.3.2
