@@ -57,14 +57,11 @@ module.exports = function (api) {
 
 ## Preview Final Project
 
-#### Screen
+#### Home Screen
 
-<img src="" style="width:350px;" alt=" Screen" />
+<img src="homescreen.jpg" style="width:350px;" alt=" Home" />
 
-#### Screen
+#### Food Details Screen
 
-<img src="" style="width:350px;" alt=" Screen" />
+<img src="detailsscreen.jpg" style="width:350px;" alt="Details" />
 
-#### Screen
-
-<img src="" style="width:350px;" alt=" Screen" />
