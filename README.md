@@ -4,9 +4,8 @@
 ### 1- [React Native Expo](https://reactnative.dev/)
 ### 2- [NativeWind](https://www.nativewind.dev/)
 ### 3- [React Navigation](https://reactnavigation.org/)
-### 4- [npm react-native-linear-gradient](https://www.npmjs.com/package/react-native-linear-gradient)
-### 5- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
-### 6- [react-native-animatable](https://www.npmjs.com/package/react-native-animatable)
+### 4- [npm react-native-heroicons](https://www.npmjs.com/package/react-native-heroicons)
+### 5- [react-native-animatable](https://www.npmjs.com/package/react-native-animatable)
 
 ## Steps
 - npx create-expo-app Travel-App-Ui
@@ -18,7 +17,6 @@
 - npx expo install react-native-screens react-native-safe-area-context
 - npm install @react-navigation/native-stack
 - npm i react-native-responsive-screen
-- npm i expo-linear-gradient
 - npm i react-native-heroicons
 - npm i react-native-heroicons react-native-svg
 - npm i react-native-animatable
