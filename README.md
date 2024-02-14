@@ -4,11 +4,11 @@
 
 #### Home Screen
 
-<img src="homescreen.jpg" style="width:350px;" alt=" Home" />
+<img src="./preview/homescreen.jpg" style="width:350px;" alt=" Home" />
 
 #### Food Details Screen
 
-<img src="detailsscreen.jpg" style="width:350px;" alt="Details" />
+<img src="./preview/detailsscreen.jpg" style="width:350px;" alt="Details" />
 
 
 ## What did we use in the project?
